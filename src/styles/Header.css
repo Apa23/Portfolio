@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+#basic-navbar-nav{
+    justify-content: flex-end;
+}
+
+.navbar-nav{
+    margin: 0 !important;
+}

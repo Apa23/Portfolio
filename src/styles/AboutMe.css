@@ -1,0 +1,17 @@
+.about-me-photo{
+    background-color: grey;
+    padding: 0;
+    margin: 2rem;
+}
+
+#my-photo{
+    width: 100%;
+}
+
+.about-me-info{
+    padding: 2rem 5rem;
+}
+
+.about-me-info p{
+    text-align: justify;
+}
